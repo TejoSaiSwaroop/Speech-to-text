@@ -8,7 +8,7 @@ import openai
 
 api_key = "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"
 
-lang = 'eu'
+lang = 'en'
 
 openai.api_key = api_key
 
